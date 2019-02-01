@@ -9,10 +9,10 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.util.ArrayList;
-import zoid.itens.SacolaItens;
-import zoid.localizacao.LocalAvatar;
+import zoid.itens.gandwise.SacolaItens;
+import zoid.localizacao.beorn.LocalAvatar;
 import zoid.encontro.Encontro;
-import zoid.missao.Missao;
+import zoid.eomer.Missao;
 import zoid.pets.AvatarPet;
 
 /**

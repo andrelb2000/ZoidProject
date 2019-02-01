@@ -5,6 +5,9 @@
  */
 package zoid;
 
+import zoid.elros.GerenteZoid;
+import zoid.elros.GerenteZoidV1;
+
 /**
  *
  * @author andre
